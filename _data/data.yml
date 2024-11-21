@@ -16,7 +16,7 @@ sidebar:
     email: annabellejoranis@gmail.com
     phone: 203 482 8796
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: annabelle-sanok
+    linkedin: annabellesanok
     github: annabellesanok
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #mastodon:  # Please include your full Mastodon link here.
@@ -28,59 +28,55 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-
+      Welcome to my portfolio! I’m a Computer Science and Business student at Northeastern University, graduating in May. 
+      Over the past few years, I’ve gained hands-on experience as a software engineering Co-op at two asset management firms in Boston, 
+      where I worked on developing real-world systems and honing my technical skills. This website showcases some of the projects I’ve worked 
+      on during my studies and personal explorations. If you’re curious to dive deeper, feel free to check out my GitHub for more detailed 
+      code and repositories. Thanks for visiting!
+      
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Image Processing Program 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "--"
 
-      - title: DevStudio
+      - title: Husky Eats Project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "--"
 
-      - title: Tempo
+      - title: Job Salary Calculator Project
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "--"
 
-      - title: Atom
+      - title: Games I made in fundies 2
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "--"
 
-      - title: Delta
+      - title: ...
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "--"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Javascript & jQuery
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: Angular
+#        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#      - name: Ruby on Rails
+#        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: Sketch & Photoshop
+#        level: 60%
 
