@@ -38,25 +38,25 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: _____
+      - title: project1
         link: "#hook"
-        tagline: "--"
+        tagline: "description
 
-      - title: ____
+      - title: project2
         link: "#"
-        tagline: "--"
+        tagline: "description"
 
-      - title: Job Salary Calculator Project
+      - title: project3
         link: "#"
-        tagline: "--"
+        tagline: "description"
 
-      - title: _____
+      - title: project4
         link: "#"
-        tagline: "--"
+        tagline: "description"
 
-      - title: _____
+      - title: project5
         link: "#"
-        tagline: "--"
+        tagline: "description"
 
 #skills:
 #    title: Skills &amp; Proficiency
