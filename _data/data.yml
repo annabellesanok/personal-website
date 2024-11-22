@@ -33,25 +33,33 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: project1
-        link: "#hook"
-        tagline: "description
+      - title: Image Collaging Program
+        link: "https://github.com/annabellesanok/ImageProcessing"
+        tagline: "This project is a versatile image processing tool built using Java and Java Swing, 
+        offering both a graphical user interface (GUI) and a text-based interface using commands. It allows users to create, 
+        edit, and save collage-style projects by adding multiple image layers, applying one of 12 filters, 
+        and arranging images at specified positions. The tool supports PPM, JPEG, and PNG formats, enabling 
+        users to save individual layers or entire projects. The application features a modular design using interfaces 
+        and the Command Design Pattern, ensuring scalability and flexibility. Below is an example of the UI with a collage
+        project started."
+        image: "assets/images/collage.png"
 
-      - title: project2
-        link: "#"
-        tagline: "description"
+      - title: Set Game
+        link: "https://github.com/annabellesanok/SetGame"
+        tagline: "This project is a command-line implementation of the popular card game Set, with customizable board sizes. 
+        Players identify valid sets on the board, which are then replaced with new cards. The game was designed with a strong 
+        focus on the MVC (Model-View-Controller) design pattern. The model holds the card representations and core game 
+        logic, including methods to validate sets and retrieve cards based on player input. The view manages the display of the 
+        board in the command line, while the controller handles player inputs and game interactions."
 
-      - title: project3
-        link: "#"
-        tagline: "description"
-
-      - title: project4
-        link: "#"
-        tagline: "description"
-
-      - title: project5
-        link: "#"
-        tagline: "description"
+      - title: Financial Indicators 
+        link: "https://github.com/annabellesanok/DS4200finalProject"
+        tagline: "In this project, I collaborated on building a website using HTML and CSS to showcase dynamic financial 
+        data visualizations. The website features interactive Altair visualizations created in Python, comparing financial 
+        metrics like debt-to-equity ratios, working capital, and profitability trends of S&P 500 companies. We analyzed data 
+        for leading healthcare and tech firms to highlight sector-specific financial strategies and investor sentiments. 
+        The interactive features, such as dropdown filters, enhance user engagement, making complex data accessible and 
+        insightful. The website can be accessed <a href='https://annabellesanok.github.io/DS4200finalProject/' target='_blank'>here</a>."
 
 #skills:
 #    title: Skills &amp; Proficiency

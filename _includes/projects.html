@@ -18,7 +18,7 @@
 
   {% for project in projects.assignments %}
     <div class="item">
-
+      
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
@@ -26,11 +26,14 @@
         {{ project.title }}
         {% endif %}
       </span>
-
+  
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
-
+  
+      {% if project.image %}
+      <img src="{{ project.image }}" alt="{{ project.title }} image" class="project-image" />
+      {% endif %}
     </div><!--//item-->
   {% endfor %}
 
